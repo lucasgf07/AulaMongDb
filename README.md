@@ -1,2 +1,0 @@
-# AulaMongDb
-Atividade
